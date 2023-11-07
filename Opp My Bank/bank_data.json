@@ -1,0 +1,162 @@
+[
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1000,
+    "transactionDate": "2023-11-01T15:39:23.673Z",
+    "accountBalance": 0,
+    "pin": "111"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 1500,
+    "transactionDate": "2023-11-01T15:39:30.014Z",
+    "accountBalance": 1500,
+    "pin": "111"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 100,
+    "transactionDate": "2023-11-01T15:39:37.469Z",
+    "accountBalance": 1400,
+    "pin": "111"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 12000,
+    "transactionDate": "2023-11-01T16:36:54.343Z",
+    "accountBalance": 13000,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1000,
+    "transactionDate": "2023-11-01T16:37:37.811Z",
+    "accountBalance": 0,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1000,
+    "transactionDate": "2023-11-01T16:38:54.401Z",
+    "accountBalance": 0,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 1000000,
+    "transactionDate": "2023-11-01T16:39:36.793Z",
+    "accountBalance": 1000000,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1000,
+    "transactionDate": "2023-11-01T16:39:44.677Z",
+    "accountBalance": 999000,
+    "pin": "123"
+  },
+  {
+    "customerName": "Yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 10000000,
+    "transactionDate": "2023-11-01T16:46:32.787Z",
+    "accountBalance": 10001000,
+    "pin": "123"
+  },
+  {
+    "customerName": "Yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 10000,
+    "transactionDate": "2023-11-01T16:46:40.383Z",
+    "accountBalance": 9991000,
+    "pin": "123"
+  },
+  {
+    "customerName": "bilal",
+    "transactionType": "Deposit",
+    "transactionAmount": 1000000,
+    "transactionDate": "2023-11-01T16:50:14.296Z",
+    "accountBalance": 1001000,
+    "pin": "1245"
+  },
+  {
+    "customerName": "bilal",
+    "transactionType": "Withdraw",
+    "transactionAmount": 10000,
+    "transactionDate": "2023-11-01T16:50:27.079Z",
+    "accountBalance": 991000,
+    "pin": "1245"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 120000,
+    "transactionDate": "2023-11-01T16:51:43.213Z",
+    "accountBalance": 121000,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1200,
+    "transactionDate": "2023-11-01T16:51:51.401Z",
+    "accountBalance": 119800,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 120000,
+    "transactionDate": "2023-11-01T16:52:31.451Z",
+    "accountBalance": 121000,
+    "pin": "123"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 10000,
+    "transactionDate": "2023-11-01T16:52:37.896Z",
+    "accountBalance": 111000,
+    "pin": "123"
+  },
+  {
+    "customerName": "was",
+    "transactionType": "Deposit",
+    "transactionAmount": 100000,
+    "transactionDate": "2023-11-06T14:18:28.260Z",
+    "accountBalance": 101000,
+    "pin": "111"
+  },
+  {
+    "customerName": "was",
+    "transactionType": "Withdraw",
+    "transactionAmount": 100,
+    "transactionDate": "2023-11-06T14:18:33.894Z",
+    "accountBalance": 100900,
+    "pin": "111"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Deposit",
+    "transactionAmount": 100000,
+    "transactionDate": "2023-11-06T15:29:02.214Z",
+    "accountBalance": 101000,
+    "pin": "1234"
+  },
+  {
+    "customerName": "yasir",
+    "transactionType": "Withdraw",
+    "transactionAmount": 1200,
+    "transactionDate": "2023-11-06T15:29:07.304Z",
+    "accountBalance": 99800,
+    "pin": "1234"
+  }
+]
